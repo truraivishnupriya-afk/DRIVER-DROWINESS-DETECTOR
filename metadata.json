@@ -1,0 +1,6 @@
+{
+  "name": "Driver Drowsiness Detector",
+  "description": "Real-time AI computer vision application that detects driver drowsiness and alerts them via eye tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
